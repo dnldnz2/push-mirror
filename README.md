@@ -1,6 +1,6 @@
 # push-mirror-test
 
-
+TEST
 
 ## Getting started
 
